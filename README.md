@@ -26,9 +26,10 @@ Music is my life...음악이 삶의 이유인 [주인공]
 
 
 ## 메인 화면
-<img width="675" alt="메인화면" src="https://github.com/Music-Is-My-Life/PM/assets/96675421/f67eb5ce-4219-4436-9522-9d53e4acf481">    
+<img width="675" alt="메인화면" src="https://github.com/Music-Is-My-Life/PM/assets/96675421/f67eb5ce-4219-4436-9522-9d53e4acf481">     
+
 게임은 5일 동안 진행  
-1일 1회 행동 가능
+1일 1회 행동 가능  
 메인 화면에서 행동을 선택할때 스마트폰을 이용
 
 
