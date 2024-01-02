@@ -40,9 +40,10 @@ Music is my life...음악이 삶의 이유인 [주인공]
 >   > #### 알바하기
 >   > 키보드 게임  
 > 레퍼런스 게임 : 비비빅 때부자  
-> <img src= "https://github.com/Music-Is-My-Life/PM/assets/96675421/dd437013-115f-4a77-ab0b-62555efdb26c">    
-> 5개의 키보드 - 한턴이 끝나면 성공, 실패 여부 관계 없이 키보드 개수 +1  
-> 성공한 횟수 * 5만원 획득  
+> <img src= "https://github.com/Music-Is-My-Life/PM/assets/96675421/dd437013-115f-4a77-ab0b-62555efdb26c">     
+> <img src= "https://github.com/Music-Is-My-Life/PM/assets/96675421/2f44c255-d881-45e7-b5e0-98d935ebc0d7">     
+> 한턴이 끝나면 성공, 실패 여부 관계 없이 키보드 개수 +1   
+> 성공한 횟수 * 5만원 획득   
 >   >    #### 구걸
 >   > 랜덤 확률
 > 95%의 확률로 1만원~5만원 사이의 돈을 획득(만원 단위로)  
